@@ -284,12 +284,10 @@ section {
 }
 
 .about-pic {
-    border-radius: 6rem;
-    position: absolute;
-    width:30%;
-    height:70%;
-    margin-top: -5rem;
-    margin-left: -6rem;
+    border-radius: 2rem;
+    position: relative;
+    width:300px;
+    height:400px;
 }
 
 .arrow {
